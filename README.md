@@ -28,7 +28,7 @@
 | **iPhone or iPad** | [Build your own app](#iphone-and-ipad) on an Apple Silicon Mac, then install it; building on Windows comes with the next release (experimental) |
 | **Mac** (Apple silicon) | [Build your own app](#mac) from this repository |
 | **Apple TV** | Follow the [tvOS build guide](docs/TVOS_BUILD.md) (experimental) |
-| **Linux** (x86-64) | [Build the native version](docs/LINUX.md); a ready-made download is not published yet |
+| **Linux** (x86-64) | [Build the native version](docs/LINUX.md); or use a ready made version (#linux)|
 | **Android** (arm64) | [Build your own APK](docs/ANDROID.md) on a Windows PC or a Mac (experimental) |
 
 On Mac, iPhone, iPad, Linux and Android, the app you build contains code translated from your disc. **It is yours
